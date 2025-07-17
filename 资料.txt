@@ -1,0 +1,4 @@
+jq中文文档：https://jquery.cuishifeng.cn/
+富文本官网：https://www.wangeditor.com/v4/
+图标库： https://www.iconfont.cn/
+layui:https://layui.gitee.io/v2/
